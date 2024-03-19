@@ -23,7 +23,7 @@ This package requires Laravel 8 or higher, PHP 8.1 or higher and a database that
 You can install the package via composer:
 
 ``` bash
-composer require ruthgeridema/laravel-url-rewrites
+composer require sparkouttech/laravel-url-rewrites
 ```
 
 The package will automatically register itself.
@@ -155,19 +155,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 ## Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security
-
-If you discover any security related issues, please email ruthger.idema@gmail.com instead of using the issue tracker.
-
-
-## Credits
-
-- [Ruthger Idema](https://github.com/ruthgeridema)
-- [All Contributors](../../contributors)
-
-Special thanks for Spatie for their guidelines and their packages as an inspiration
-- [Spatie](https://spatie.be)
 
 ## License
 

@@ -1,18 +1,16 @@
 {
-  "name": "prasanth-spark/laravel-url-rewrites",
+  "name": "sparkouttech/laravel-url-rewrites",
   "description": "Easy URL rewrites in your Laravel application",
   "keywords": [
     "url",
     "rewrite",
     "laravel"
   ],
-  "homepage": "https://github.com/prasanth-spark/laravel-url-rewrites",
+  "homepage": "https://github.com/sparkouttech/laravel-url-rewrites",
   "license": "MIT",
   "authors": [
     {
-      "name": "Prasanth P",
-      "email": "ruthger.idema@gmail.com",
-      "homepage": "https://ide.ma"
+      "name": "Sparkout Tech"
     }
   ],
   "require": {
